@@ -27,13 +27,9 @@ Body parser
 Cookie Parser
 
 ## STACK USED :
-
 MERN STACK
 
 # COMMANDS TO RUN
-
 ## FRONT END:
 
-
 ## BACKEND END:
-
