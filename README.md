@@ -1,8 +1,3 @@
----
-noteId: "aff9be607e6811ea8102f9108c47f8b5"
-tags: []
-
----
 
 # Disaster_Management_System
 
