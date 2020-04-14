@@ -1,3 +1,9 @@
+---
+noteId: "aff9be607e6811ea8102f9108c47f8b5"
+tags: []
+
+---
+
 # Disaster_Management_System
 
 This Web app designed for all across the globe to communicate in case of any natural disaster.
@@ -31,5 +37,16 @@ MERN STACK
 
 # COMMANDS TO RUN
 ## FRONT END:
+```
+npm install
+npm start
+
+```
 
 ## BACKEND END:
+
+```
+npm install
+npm start
+
+```
